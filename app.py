@@ -17,7 +17,7 @@ from langchain.sql_database import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain
 
 # Replace with your project ID and location
-PROJECT_ID = "your-project-id"
+PROJECT_ID = "your-project-id" #your gcp project id
 LOCATION = "us-central1"
 
 # Initialize VertexAI LLM
