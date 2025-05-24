@@ -1,0 +1,8 @@
+google-cloud-aiplatform==1.25.0
+pandas
+google-api-python-client
+SQLAlchemy==1.4.48 
+sqlalchemy-bigquery
+langchain==0.0.229 
+streamlit 
+# langchain-community langchain-core
